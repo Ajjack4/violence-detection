@@ -8,7 +8,7 @@ import numpy as np
 
 st.set_page_config(page_title="YOLO Live Stream", layout="wide")
 
-st.title("🎥 YOLO Live Stream Object Detection")
+st.title("🎥 Live Stream Object Detection")
 st.caption("Detect cars, pedestrians, and cyclists in a YouTube live stream ")
 
 # Input field for YouTube live URL
